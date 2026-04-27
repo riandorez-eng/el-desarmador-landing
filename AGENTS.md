@@ -2,9 +2,15 @@
 
 ## Proyecto
 
-Landing page pública de **El Desarmador**, ferretería en Huamuxtitlán, Guerrero, México.
+Landing page pública de **El Desarmador**, ferretería familiar nacida en Huamuxtitlán, Guerrero, México.
 
-El Desarmador es una unidad comercial de OBREXA.
+## Versión actual
+
+Versión pública 1.1.
+
+La landing comunica a El Desarmador como una ferretería familiar nacida en Huamuxtitlán, con soluciones para casa, campo y obra.
+
+La landing pública no debe mencionar OBREXA todavía. La integración institucional queda reservada para una etapa futura.
 
 ## Objetivo del sitio
 
@@ -12,30 +18,35 @@ Crear una landing page profesional, rápida, sencilla y gratuita al inicio, publ
 
 La página debe permitir que clientes locales puedan:
 
-1. Conocer la ferretería.
-2. Ver productos y categorías.
-3. Encontrar ubicación.
-4. Ver horarios.
-5. Contactar por WhatsApp.
-6. Pedir cotización.
-7. Confiar más en la tienda.
-8. Preparar la marca para integrarse después con OBREXA.
+1. Conocer la ferretería y su historia familiar.
+2. Entender que atiende necesidades de casa, campo y obra.
+3. Ver a quién atiende El Desarmador.
+4. Ver productos y categorías.
+5. Encontrar ubicación.
+6. Ver horarios.
+7. Contactar por WhatsApp.
+8. Pedir cotización o revisar disponibilidad.
+9. Confiar más en la tienda.
 
 ## Reglas técnicas
 
 1. Usar HTML y CSS.
 2. Usar JavaScript básico solo si es necesario.
-3. No usar React todavía.
+3. No usar React.
 4. No usar frameworks pesados.
 5. No usar dependencias innecesarias.
-6. Todo debe poder abrirse localmente en el navegador.
-7. Todo debe poder subirse fácilmente a GitHub.
-8. Todo debe poder publicarse en Netlify.
-9. Mantener código limpio y fácil de editar.
-10. Comentar solo donde sea útil.
-11. Mantener buen SEO básico.
-12. Mantener diseño responsive.
-13. Mantener accesibilidad básica.
+6. No usar Supabase.
+7. No agregar formularios conectados.
+8. No agregar carrito.
+9. No agregar pagos en línea.
+10. Todo debe poder abrirse localmente en el navegador.
+11. Todo debe poder subirse fácilmente a GitHub.
+12. Todo debe poder publicarse en Netlify.
+13. Mantener código limpio y fácil de editar.
+14. Comentar solo donde sea útil.
+15. Mantener buen SEO básico.
+16. Mantener diseño responsive.
+17. Mantener accesibilidad básica.
 
 ## Identidad de marca
 
@@ -47,13 +58,9 @@ Slogan:
 
 - Tu herramienta de cada día
 
-Empresa madre:
+Posicionamiento público:
 
-- OBREXA
-
-Frase institucional:
-
-- El Desarmador es una unidad comercial de OBREXA.
+- Ferretería familiar nacida en Huamuxtitlán, con soluciones para casa, campo y obra.
 
 Ubicación:
 
@@ -69,6 +76,9 @@ Giro:
 - Tornillería
 - Consumibles de obra
 - Materiales relacionados con construcción
+- Soluciones para casa
+- Soluciones para campo
+- Soluciones para obra
 
 ## Contacto
 
@@ -99,17 +109,18 @@ Google Maps:
 La página debe sentirse:
 
 - Ferretera
-- Industrial
-- Seria
-- Fuerte
-- Ordenada
+- Local
+- Familiar
+- Formal
 - Cercana
+- Profesional
+- Ordenada
 - Confiable
 - No genérica
 - No infantil
 - No demasiado moderna tipo startup
 
-Debe sentirse como una ferretería local con aspiración institucional.
+Debe sentirse como una ferretería familiar de Huamuxtitlán con aspiración institucional, trato humano y crecimiento ordenado.
 
 ## Colores de referencia
 
@@ -130,19 +141,22 @@ Preferencia:
 
 Se permite usar Google Fonts.
 
-## Contenido obligatorio
+## Contenido obligatorio v1.1
 
 La landing debe incluir:
 
 1. Hero principal.
-2. Categorías de productos.
-3. Sección para quién trabajamos.
-4. Productos destacados.
-5. Sección de cotización por WhatsApp.
-6. Sección de ubicación.
-7. Horario.
-8. Sección Parte de OBREXA.
-9. Footer.
+2. Sección Nosotros.
+3. Sección A quién atendemos.
+4. Sección Qué encuentras en la tienda.
+5. Sección Nuestro compromiso.
+6. Sección Nuestros valores.
+7. Misión y visión en tarjetas pequeñas.
+8. Cierre institucional.
+9. Sección de cotización por WhatsApp.
+10. Sección de ubicación.
+11. Horario.
+12. Footer.
 
 ## Datos que no se deben inventar
 
@@ -158,11 +172,17 @@ No inventar:
 - Precios.
 - Descuentos.
 - Garantías no confirmadas.
+- Claims exagerados como “la mejor ferretería” si no se pueden comprobar.
 
 ## Prohibiciones
 
 No agregar:
 
+- React.
+- Frameworks.
+- Dependencias nuevas.
+- Supabase.
+- Formularios conectados.
 - Carrito de compra.
 - Pagos en línea.
 - Sistema de inventario.
@@ -172,8 +192,8 @@ No agregar:
 - Marcas no mencionadas.
 - Dirección falsa.
 - Teléfono falso.
+- Enlace inventado de Google Maps.
 - Imágenes genéricas sin autorización.
-- Claims exagerados como “la mejor ferretería” si no se pueden comprobar.
 
 ## Marcas permitidas mencionadas
 
@@ -187,10 +207,12 @@ Solo se pueden mencionar marcas ya indicadas por el dueño del proyecto:
 El texto debe ser:
 
 - Formal pero cercano.
+- Familiar.
 - Claro para clientes locales.
 - Profesional.
 - Directo.
-- Con enfoque en servicio, utilidad y confianza.
+- Respetuoso.
+- Con enfoque en servicio, utilidad, comunidad y confianza.
 
 ## SEO básico
 
@@ -198,14 +220,17 @@ Incluir de forma natural:
 
 - El Desarmador
 - Ferretería en Huamuxtitlán
+- Ferretería familiar
 - Huamuxtitlán, Guerrero
+- Casa
+- Campo
+- Obra
 - Herramientas
 - Plomería
 - Electricidad
 - Fijación
 - Tornillería
 - Consumibles de obra
-- OBREXA
 
 ## Futuras mejoras
 
@@ -218,4 +243,4 @@ No implementar todavía, pero dejar el proyecto preparado para:
 - Google Business Profile.
 - Formulario de contacto.
 - Promociones.
-- Integración futura con OBREXA.
+- Integración institucional futura.
